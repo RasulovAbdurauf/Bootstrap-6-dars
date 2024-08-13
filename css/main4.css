@@ -1,0 +1,38 @@
+.bgdanger{
+    background-color: rgb(241, 77, 77);
+    padding: 15px 2px;
+    box-sizing: border-box;
+    
+}
+.bginfo{
+    background-color: rgb(96, 144, 233);
+    padding: 15px 2px;
+    box-sizing: border-box;
+    
+}
+.bgsuccess{
+    background-color: rgb(93, 192, 92);
+    padding: 15px 2px;
+    box-sizing: border-box;
+    
+}
+.bgsecondary{
+    background-color: rgb(116, 116, 116);
+    padding: 15px 2px;
+    box-sizing: border-box;
+    
+}
+.lnhght{
+    line-height: 17px;
+    padding-top: 7px;
+    box-sizing: border-box;
+}
+.fontnormal{
+    font-weight: normal;
+}
+.bgsecondary2{
+    background-color: #f1f1f1;
+    padding: 15px 2px;
+    box-sizing: border-box;
+    
+}
